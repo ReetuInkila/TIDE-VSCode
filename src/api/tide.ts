@@ -1,4 +1,4 @@
-/**
+ /**
  * This class handles communication with the cli tool.
  *
  * @author Hannes Koivusipilä
